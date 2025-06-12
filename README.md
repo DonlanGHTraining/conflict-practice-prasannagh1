@@ -6,7 +6,11 @@
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
+readme-update
 This repository also has some baked in merge conflicts for practice. 
+This is removing conflicts and merging the code.
+=======
+
 
 Please feel free to use this in your classrooms,
 make video/picture/text adaptations,
